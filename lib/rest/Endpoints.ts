@@ -1,4 +1,4 @@
-export const LAVALINK_API_VERSION = 3;
+export const LAVALINK_API_VERSION = 4;
 
 // Sessions
 export const SESSIONS = (sessionId: string) => `/sessions/${sessionId}`;
